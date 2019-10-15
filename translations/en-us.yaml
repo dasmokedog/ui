@@ -676,7 +676,7 @@ authPage:
     popupError: 'Please disable your pop-up blocker and click "Authenticate" again.'
   ping:
     buttonText:
-      pre: 'Authenticate with Ping'
+      pre: 'Authenticate with MyID'
       post: Waiting to hear back from IDP
   keycloak:
     buttonText:
@@ -6874,7 +6874,7 @@ loginAzure:
 
 loginSaml:
   ping:
-    buttonText: "Log In with Ping"
+    buttonText: "Log In with MyID"
   adfs:
     buttonText: "Log In with AD FS"
   okta:
